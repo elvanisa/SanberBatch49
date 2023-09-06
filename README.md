@@ -1,3 +1,4 @@
 # SanberBatch49
 
-QA Intensive Bootcamp
+QA Bootcamp
+Sanbercode Intermediate Class
